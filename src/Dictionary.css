@@ -1,0 +1,13 @@
+.Dictionary {
+  text-align: center;
+}
+
+.Dictionary input {
+  width: 100%;
+  height: 48px;
+  padding: 0 16px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 20px;
+  color: #1f2937;
+}

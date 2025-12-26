@@ -1,3 +1,20 @@
 body {
-  background: white;
+  font-family: monospace;
+  background: #faf4e8;
+  color: #2e2a25;
+}
+.App-header {
+  margin: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+  border-bottom: 1px solid #d6cfc4;
+}
+
+footer {
+  margin: 20px;
+  padding: 12px;
+  font-size: 12px;
+  color: #6b6b6b;
+  border-top: 1px solid #d6cfc4;
 }
