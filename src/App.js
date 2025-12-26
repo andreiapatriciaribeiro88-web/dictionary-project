@@ -6,9 +6,11 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">Dictionary</header>
-        <main>
-          <Dictionary />
-        </main>
+        <div className="box">
+          <main>
+            <Dictionary />
+          </main>
+        </div>
         <footer className="text-center">
           Coded by Andreia Ribeiro{" "}
           <a
