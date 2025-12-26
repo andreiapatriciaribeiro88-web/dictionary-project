@@ -1,0 +1,19 @@
+.Meaning h3 {
+  color: #764838;
+}
+
+.Meaning p {
+  color: #dd5341;
+}
+.Meaning p:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.Meaning strong {
+  color: #a3350a;
+}
+
+.Meaning .example {
+  color: #dd5341;
+}

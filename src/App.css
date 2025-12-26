@@ -1,7 +1,6 @@
 body {
   font-family: monospace;
   background: #faf4e8;
-  color: #2e2a25;
 }
 .App-header {
   margin: 30px;
@@ -17,4 +16,8 @@ footer {
   font-size: 12px;
   color: #6b6b6b;
   border-top: 1px solid #d6cfc4;
+}
+a {
+  text-decoration: none;
+  color: #c5c5c5;
 }

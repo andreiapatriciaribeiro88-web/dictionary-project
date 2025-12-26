@@ -9,7 +9,17 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Andreia Ribeiro</footer>
+        <footer className="text-center">
+          Coded by Andreia Ribeiro{" "}
+          <a
+            href="https://github.com/andreiapatriciaribeiro88-web/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            {" "}
+            ·Open Source·
+          </a>
+        </footer>
       </div>
     </div>
   );
